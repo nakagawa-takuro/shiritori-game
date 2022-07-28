@@ -3,7 +3,7 @@
 ## how i make this
 ### lang 
 front :: TypeScript
-end   :: Golang
+back  :: Golang
 SQL   :: MySQL
 ### docker
 yes
